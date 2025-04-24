@@ -16,5 +16,5 @@
   
   ##
 
- me chamo luan, sou desenvolvedor web,busco experiencia em projetos para meu proprio aprimoramento, desejo entrar no mercado de desenvolvimento
+ Me chamo Luan, sou desenvolvedor web,busco experiencia em projetos para meu proprio aprimoramento, desejo entrar no mercado de desenvolvimento
 
