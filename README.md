@@ -15,8 +15,8 @@
   <img align="center" alt="luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luan-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="luan-C" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></div>
-  
+  <img align="center" alt="luan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
   ##
 
  Me chamo Luan, sou desenvolvedor web,busco experiencia em projetos para meu proprio aprimoramento, desejo entrar no mercado de desenvolvimento
